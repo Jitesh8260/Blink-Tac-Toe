@@ -36,3 +36,31 @@ Players select their emoji category before starting the game.
 - Responsive design improvements.
 - Additional emoji categories and customization.
 
+## How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jitesh8260/blink-tac-toe.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd blink-tac-toe
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open your browser at `http://localhost:3000` to play the game.
+
+---
+
+**Created by:** Jitesh Bhakat
+**Contact:** https://www.linkedin.com/in/jiteshbhakat  
+**Date:** May 2025
+
+---
+
+Feel free to explore, play, and contribute!
