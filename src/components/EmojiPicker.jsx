@@ -64,7 +64,7 @@ const EmojiPicker = ({ setPlayerEmojis, setGameStarted }) => {
           onClick={handleStart}
           className="w-full bg-gradient-to-r from-pink-500 to-violet-600 hover:from-pink-600 hover:to-violet-700 transition text-white font-bold py-3 rounded-xl shadow-lg hover:scale-105 active:scale-95"
         >
-          🚀 Start Game
+          🚀 Start Game.
         </button>
       </div>
     </div>
