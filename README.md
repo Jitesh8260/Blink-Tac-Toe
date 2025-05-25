@@ -1,5 +1,14 @@
 # Blink Tac Toe - React.js Game
+## 🚀 Anything You’d Improve With More Time
 
+Due to ongoing **end semester exams**, I couldn't dedicate enough time to polishing the UI to the level I usually maintain in my other web projects.  
+If I had more time, I would’ve focused more on:
+- A **modern, clean and animated UI** (like my other websites)
+- Better **transitions**, **micro-interactions**, and **responsive layout**
+- Adding **emojis flying in**, **fading out**, or subtle **hover effects**
+- Music : Different music for selection and placing emoji, winning etc
+  
+Since the core functionality is complete and game logic works well (including the vanishing emoji feature), I prioritized building a **functioning and fun prototype first**.
 ## Overview
 Blink Tac Toe is a fun, two-player Tic Tac Toe variant built with React.js, featuring emojis instead of Xs and Os, and a unique "vanishing emoji" rule. Players choose emoji categories and compete by placing emojis on a 3x3 grid, with only 3 emojis allowed on the board per player at a time. When placing the 4th emoji, the oldest one vanishes.
 
