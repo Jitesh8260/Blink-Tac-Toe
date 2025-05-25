@@ -29,11 +29,11 @@ const EmojiPicker = ({ setPlayerEmojis, setGameStarted }) => {
 
       <div className="flex flex-col gap-6">
         <div>
-          <label className="block text-sm font-semibold mb-1 text-white/90">
+          <label className="block text-sm font-semibold mb-1 text-black">
             🧍 Player 1
           </label>
           <select
-            className="w-full px-4 py-2 rounded-xl bg-white/20 backdrop-blur-md border border-white/30 focus:outline-none focus:ring-2 focus:ring-pink-400"
+            className="w-full px-4 py-2 rounded-xl bg-white/20 backdrop-blur-md border border-white/30 focus:outline-none focus:ring-2 focus:ring-pink-400 text-black"
             value={selected1}
             onChange={(e) => setSelected1(e.target.value)}
           >
@@ -45,11 +45,11 @@ const EmojiPicker = ({ setPlayerEmojis, setGameStarted }) => {
         </div>
 
         <div>
-          <label className="block text-sm font-semibold mb-1 text-white/90">
+          <label className="block text-sm font-semibold mb-1 text-black">
             🧍 Player 2
           </label>
           <select
-            className="w-full px-4 py-2 rounded-xl bg-white/20 backdrop-blur-md border border-white/30 focus:outline-none focus:ring-2 focus:ring-violet-400"
+            className="w-full px-4 py-2 rounded-xl bg-white/20 backdrop-blur-md border border-white/30 focus:outline-none focus:ring-2 focus:ring-violet-400 text-black"
             value={selected2}
             onChange={(e) => setSelected2(e.target.value)}
           >
